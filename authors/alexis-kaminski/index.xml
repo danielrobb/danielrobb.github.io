@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexis Kaminski | Daniel Robb</title>
+    <link>https://danielrobb.github.io/authors/alexis-kaminski/</link>
+      <atom:link href="https://danielrobb.github.io/authors/alexis-kaminski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexis Kaminski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Alexis Kaminski</title>
+      <link>https://danielrobb.github.io/authors/alexis-kaminski/</link>
+    </image>
+    
+    <item>
+      <title>Overturning Structures in Symmetric and Asymmetric Shear Instabilities</title>
+      <link>https://danielrobb.github.io/publication/2019-aps-holmboe/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2019-aps-holmboe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

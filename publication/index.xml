@@ -5,12 +5,68 @@
     <link>https://danielrobb.github.io/publication/</link>
       <atom:link href="https://danielrobb.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://danielrobb.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Overturning Structures in Symmetric and Asymmetric Shear Instabilities</title>
+      <link>https://danielrobb.github.io/publication/2019-aps-holmboe/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2019-aps-holmboe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave-current interaction in a laboratory flume: an analogue of the Hawking effect</title>
+      <link>https://danielrobb.github.io/publication/2019-aps-wave/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2019-aps-wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glacial inflows and stratification in a hydroelectric reservoir</title>
+      <link>https://danielrobb.github.io/publication/2019-ppnw/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2019-ppnw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of hydropower operation on turbidity in a glacially-fed reservoir</title>
+      <link>https://danielrobb.github.io/publication/2018-ppnw/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2018-ppnw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPH-DEM model for free-surface flows containing solids applied to river ice jams</title>
+      <link>https://danielrobb.github.io/publication/2016-jhr/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2016-jhr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical simulation of dam-break flows using depth-averaged hydrodynamic and three-dimensional CFD models</title>
+      <link>https://danielrobb.github.io/publication/2015-csce/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2015-csce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smoothed particle hydrodynamics simulations of freely moving solid objects in a free-surface flow with applications to river ice dynamics (MSc Thesis)</title>
+      <link>https://danielrobb.github.io/publication/2012-thesis/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2012-thesis/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

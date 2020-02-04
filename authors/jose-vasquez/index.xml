@@ -5,12 +5,20 @@
     <link>https://danielrobb.github.io/authors/jose-vasquez/</link>
       <atom:link href="https://danielrobb.github.io/authors/jose-vasquez/index.xml" rel="self" type="application/rss+xml" />
     <description>Jose Vasquez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Jose Vasquez</title>
       <link>https://danielrobb.github.io/authors/jose-vasquez/</link>
     </image>
+    
+    <item>
+      <title>Tunnel Replacement Project: Morphodynamic Modelling of Trench Migration</title>
+      <link>https://danielrobb.github.io/publication/2017-csce/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2017-csce/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Numerical simulation of dam-break flows using depth-averaged hydrodynamic and three-dimensional CFD models</title>

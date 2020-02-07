@@ -1,4 +1,8 @@
 User-agent: *
-Allow: /
+Disallow: /publication_types/
+Disallow: /post/
+Disallow: /categories/
+Disallow: /tags/
+
 
 Sitemap: https://danielrobb.github.io/sitemap.xml

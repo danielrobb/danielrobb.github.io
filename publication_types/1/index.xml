@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Daniel Robb</title>
+    <link>https://danielrobb.github.io/publication_types/1/</link>
+      <atom:link href="https://danielrobb.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniel Robb</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>1</title>
+      <link>https://danielrobb.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Overturning Structures in Symmetric and Asymmetric Shear Instabilities</title>
+      <link>https://danielrobb.github.io/publication/2019-aps-holmboe/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2019-aps-holmboe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave-current interaction in a laboratory flume: an analogue of the Hawking effect</title>
+      <link>https://danielrobb.github.io/publication/2019-aps-wave/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2019-aps-wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glacial inflows and stratification in a hydroelectric reservoir</title>
+      <link>https://danielrobb.github.io/publication/2019-ppnw/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2019-ppnw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of hydropower operation on turbidity in a glacially-fed reservoir</title>
+      <link>https://danielrobb.github.io/publication/2018-ppnw/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2018-ppnw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tunnel Replacement Project: Morphodynamic Modelling of Trench Migration</title>
+      <link>https://danielrobb.github.io/publication/2017-csce/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2017-csce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical simulation of dam-break flows using depth-averaged hydrodynamic and three-dimensional CFD models</title>
+      <link>https://danielrobb.github.io/publication/2015-csce/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2015-csce/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

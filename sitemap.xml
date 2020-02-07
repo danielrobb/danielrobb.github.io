@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-	xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://danielrobb.github.io/authors/admin/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrobb.github.io/publication_types/1/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrobb.github.io/authors/alexis-kaminski/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrobb.github.io/authors/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
   <url>
     <loc>https://danielrobb.github.io/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrobb.github.io/authors/eric-dasaro/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrobb.github.io/authors/greg-lawrence/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrobb.github.io/authors/jason-olsthoorn/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrobb.github.io/publication/2019-aps-holmboe/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrobb.github.io/publication_types/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -12,9 +56,9 @@
     <loc>https://danielrobb.github.io/publication/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
-
+  
   <url>
-    <loc>https://danielrobb.github.io/authors/</loc>
+    <loc>https://danielrobb.github.io/authors/ted-tedford/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -27,19 +71,54 @@
     <loc>https://danielrobb.github.io/publication/2019-ppnw/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
-    
+  
+  <url>
+    <loc>https://danielrobb.github.io/authors/roger-pieters/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
   <url>
     <loc>https://danielrobb.github.io/publication/2018-ppnw/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://danielrobb.github.io/authors/edwin-wang/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrobb.github.io/authors/jose-vasquez/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrobb.github.io/authors/matt-gellis/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://danielrobb.github.io/publication/2017-csce/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
-    
+  
+  <url>
+    <loc>https://danielrobb.github.io/publication_types/2/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrobb.github.io/authors/jean-christophe-marongiu/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
   <url>
     <loc>https://danielrobb.github.io/publication/2016-jhr/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrobb.github.io/authors/susan-gaskin/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,11 +127,22 @@
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
   </url>
   
+  <url>
+    <loc>https://danielrobb.github.io/publication_types/7/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>https://danielrobb.github.io/publication/2012-thesis/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url>
   
+  <url>
+    <loc>https://danielrobb.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielrobb.github.io/tags/</loc>
+  </url>
   
 </urlset>

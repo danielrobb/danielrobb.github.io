@@ -1,6 +1,5 @@
 User-agent: *
 Disallow: /publication_types/
-Disallow: /post/
 Disallow: /categories/
 Disallow: /tags/
 

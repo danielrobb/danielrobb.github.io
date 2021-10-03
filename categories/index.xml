@@ -5,9 +5,9 @@
     <link>https://danielrobb.github.io/categories/</link>
       <atom:link href="https://danielrobb.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniel Robb</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Daniel Robb</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://danielrobb.github.io/media/icon_huea4105057edc5dd4dca44995b7be84a4_55839_512x512_fill_lanczos_center_3.png</url>
       <title>Categories</title>
       <link>https://danielrobb.github.io/categories/</link>
     </image>

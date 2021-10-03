@@ -5,17 +5,33 @@
     <link>https://danielrobb.github.io/publication/</link>
       <atom:link href="https://danielrobb.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Daniel Robb</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Daniel Robb</copyright><lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://danielrobb.github.io/media/icon_huea4105057edc5dd4dca44995b7be84a4_55839_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://danielrobb.github.io/publication/</link>
     </image>
     
     <item>
+      <title>Fate of turbid glacial inflows in a hydroelectric reservoir</title>
+      <link>https://danielrobb.github.io/publication/2021-efmc/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2021-efmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transport of Glacial Meltwater to the Surface Layer of a Stratified Reservoir</title>
+      <link>https://danielrobb.github.io/publication/2020-agu/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2020-agu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Overturning Structures in Symmetric and Asymmetric Shear Instabilities</title>
       <link>https://danielrobb.github.io/publication/2019-aps-holmboe/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://danielrobb.github.io/publication/2019-aps-holmboe/</guid>
       <description></description>
     </item>

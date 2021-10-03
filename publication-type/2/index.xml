@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Daniel Robb</title>
+    <link>https://danielrobb.github.io/publication-type/2/</link>
+      <atom:link href="https://danielrobb.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Daniel Robb</copyright><lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielrobb.github.io/media/icon_huea4105057edc5dd4dca44995b7be84a4_55839_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://danielrobb.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Fate of turbid glacial inflows in a hydroelectric reservoir</title>
+      <link>https://danielrobb.github.io/publication/2021-efmc/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2021-efmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPH-DEM model for free-surface flows containing solids applied to river ice jams</title>
+      <link>https://danielrobb.github.io/publication/2016-jhr/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://danielrobb.github.io/publication/2016-jhr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,13 +11,11 @@
         <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate>
         
             <item>
-                <title>Post 1</title>
+                <title>Coming soon</title>
                 <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-                <link>https%3A//danielrobb.github.io/blog/post1/</link>
-                <guid>https%3A//danielrobb.github.io/blog/post1/</guid>
-                <description>&lt;p&gt;I’m incredibly excited for $\pi$.&lt;&#x2F;p&gt;
-&lt;p&gt;$$e^{i\pi} + 1 = 0$$&lt;&#x2F;p&gt;
-&lt;img src=&quot;avatar.jpg&quot; style=&quot;max-width: 150px;&quot;&gt;</description>
+                <link>https%3A//danielrobb.github.io/blog/coming-soon/</link>
+                <guid>https%3A//danielrobb.github.io/blog/coming-soon/</guid>
+                <description></description>
             </item>
         
     </channel>

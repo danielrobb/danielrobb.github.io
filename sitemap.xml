@@ -7,7 +7,10 @@
         <loc>https://danielrobb.github.io/blog/</loc>
     </url>
     <url>
-        <loc>https://danielrobb.github.io/blog/coming-soon/</loc>
-        <lastmod>2022-02-21</lastmod>
+        <loc>https://danielrobb.github.io/blog/welcome/</loc>
+        <lastmod>1900-01-01</lastmod>
+    </url>
+    <url>
+        <loc>https://danielrobb.github.io/contact/</loc>
     </url>
 </urlset>

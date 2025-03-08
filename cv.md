@@ -1,6 +1,6 @@
 ---
 redirect: /pdf/cv.pdf
 layout: redirect
-title: cv
+title: CV
 permalink: /cv/
 ---
